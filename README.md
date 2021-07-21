@@ -1,4 +1,4 @@
-# lab-4
+# Sails_JS_project
 
 a [Sails v1](https://sailsjs.com) application
 
